@@ -21,4 +21,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ_COLAB/blob/main/Navez_DeepFloyd-IF-I-M-v1.0-final.ipynb) | Navez_DeepFloyd-IF-I-M-v1.0-final v3.0
 
 
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ_COLAB/blob/main/Navez_lama-cleaner.ipynb) | Navez_lama-cleaner v3.0
+
 
