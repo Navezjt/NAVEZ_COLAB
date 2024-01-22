@@ -18,6 +18,7 @@ The LLM course is divided into three parts:
 ## 📝 Notebooks
 
 A list of notebooks and articles related to large language models.
+https://github.com/mlabonne/llm-course
 
 ### Tools
 
