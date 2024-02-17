@@ -28,4 +28,4 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ1_COLAB/blob/main/SDXL_Navez1_ComfyUI.ipynb) | SDXL_Navez1_ComfyUI v3.0
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ_COLAB/blob/main/SDXL_Navez1_ComfyUI.ipynb) | SDXL_Navez1_ComfyUI v4.0
