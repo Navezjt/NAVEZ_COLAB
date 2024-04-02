@@ -9,6 +9,10 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ_COLAB/blob/main/InvokeAI-colab/InvokeAI_NAVEZ.ipynb) | InvokeAI_NAVEZ v3.0
 
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/NAVEZ_COLAB/blob/main/InvokeAI-colab/InvokeAI_Colab.ipynb) | InvokeAI_NAVEZ
+
 ## Tutorial 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/25f36aa3-e4da-4bef-a951-b8b6c6aff5d3)
 This is not an error or crash. We are intentionally restarting the colab. You don't need to do anything. Please execute the second cell.
