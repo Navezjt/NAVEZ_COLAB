@@ -1,0 +1,26 @@
+
+### 🍊 Jupyter Notebook
+
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ConsisID-jupyter/blob/main/ConsisID_jupyter.ipynb) | ConsisID_jupyter (Pro Colab 😭 ~37GB VRAM)
+
+### 🧬 Code
+https://github.com/PKU-YuanGroup/ConsisID
+
+### 📄 Paper
+https://arxiv.org/abs/2411.17440
+
+### 🌐 Page
+https://pku-yuangroup.github.io/ConsisID/
+
+### 🖼 Output
+![1](https://github.com/user-attachments/assets/ee73cc31-5cd3-4077-be1d-c47b774cb31c)
+
+https://github.com/user-attachments/assets/99071a26-2332-447b-9472-0ecfd5eb1f78
+
+![test](https://github.com/user-attachments/assets/7a24356d-8b75-446a-9846-db5100ecdc50)
+
+https://github.com/user-attachments/assets/d8d35b0f-2b41-4e16-b522-7023935c3bea
+
+https://github.com/Navezjt/ConsisID
